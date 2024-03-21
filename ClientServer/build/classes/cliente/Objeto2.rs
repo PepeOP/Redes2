@@ -1,1 +1,0 @@
-STCPObj.Objeto2
